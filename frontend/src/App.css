@@ -1,0 +1,84 @@
+/* PC-Archi.fr - Custom Styles */
+
+/* Reset */
+.App {
+  min-height: 100vh;
+}
+
+/* Utility classes for article content */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Prose-like styling for article content */
+.prose-zinc h2 {
+  color: #18181b;
+}
+
+.prose-zinc h3 {
+  color: #27272a;
+}
+
+.prose-zinc p {
+  color: #52525b;
+}
+
+.prose-zinc a {
+  color: #18181b;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.prose-zinc a:hover {
+  color: #000;
+}
+
+.prose-zinc ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+.prose-zinc ol {
+  list-style-type: decimal;
+  padding-left: 1.5rem;
+}
+
+/* Focus states */
+*:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+/* Selection */
+::selection {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Print styles */
+@media print {
+  .ad-slot {
+    display: none;
+  }
+  
+  .btn-amazon {
+    border: 1px solid #000;
+    background: transparent;
+    color: #000;
+  }
+}
