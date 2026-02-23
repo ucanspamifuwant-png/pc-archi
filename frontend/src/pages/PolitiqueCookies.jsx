@@ -34,7 +34,7 @@ export const PolitiqueCookies = () => {
 
               <h3 className="font-heading text-xl font-semibold mt-6 mb-3">Cookies analytiques (Google Analytics)</h3>
               <p className="text-zinc-600 leading-relaxed">
-                Nous utilisons Google Analytics pour comprendre comment les visiteurs interagissent avec notre site. Ces cookies collectent des informations de manière anonyme, notamment :
+                Nous pouvons utiliser Google Analytics pour comprendre comment les visiteurs interagissent avec notre site. Ces cookies collectent des informations de manière anonyme, notamment :
               </p>
               <ul className="list-disc pl-6 mt-2 space-y-1 text-zinc-600">
                 <li>Nombre de visiteurs</li>
