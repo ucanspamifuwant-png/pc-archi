@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function MentionsLegales() {
+export function MentionsLegales() {
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "40px 20px" }}>
       <h1>Mentions légales</h1>
@@ -9,9 +9,10 @@ export default function MentionsLegales() {
       <p>
         Nom du site : PC-ARCHI
         <br />
-        Responsable de publication : PC Archi (éditeur indépendant)
+        Responsable de publication : PC Archi (pseudonyme)
         <br />
-        Contact : <a href="mailto:pcarchi.contact@gmail.com">TON_EMAIL_ICI</a>
+        Contact :{" "}
+        <a href="mailto:pcarchi.contact@gmail.com">pcarchi.contact@gmail.com</a>
       </p>
 
       <h2>Hébergement</h2>
