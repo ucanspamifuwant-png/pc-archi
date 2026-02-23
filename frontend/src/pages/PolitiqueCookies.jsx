@@ -122,7 +122,7 @@ export const PolitiqueCookies = () => {
               <h2 className="font-heading text-2xl font-bold mt-8 mb-4">Contact</h2>
               <p className="text-zinc-600 leading-relaxed">
                 Pour toute question concernant notre utilisation des cookies :<br />
-                Email : contact@pc-archi.fr
+                Email : pcarchi.contact@gmail.com
               </p>
             </section>
           </div>
