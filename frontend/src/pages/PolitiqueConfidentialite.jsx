@@ -20,7 +20,7 @@ export const PolitiqueConfidentialite = () => {
             <section>
               <h2 className="font-heading text-2xl font-bold mt-8 mb-4">Introduction</h2>
               <p className="text-zinc-600 leading-relaxed">
-                PC-Archi.fr s'engage à protéger la vie privée de ses utilisateurs. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles lorsque vous utilisez notre site web.
+                PC-ARCHI s'engage à protéger la vie privée de ses utilisateurs. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles lorsque vous utilisez notre site web.
               </p>
             </section>
 
@@ -54,7 +54,7 @@ export const PolitiqueConfidentialite = () => {
             <section>
               <h2 className="font-heading text-2xl font-bold mt-8 mb-4">Google AdSense et publicité</h2>
               <p className="text-zinc-600 leading-relaxed">
-                Notre site utilise Google AdSense pour afficher des publicités. Google AdSense utilise des cookies pour diffuser des annonces basées sur vos visites antérieures sur notre site et d'autres sites web.
+                Notre site peut utiliser Google AdSense pour afficher des publicités. Google AdSense utilise des cookies pour diffuser des annonces basées sur vos visites antérieures sur notre site et d'autres sites web.
               </p>
               <p className="text-zinc-600 leading-relaxed mt-4">
                 Vous pouvez désactiver la publicité personnalisée en visitant les <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 hover:text-black">Paramètres de publicité Google</a>.
@@ -64,7 +64,7 @@ export const PolitiqueConfidentialite = () => {
             <section>
               <h2 className="font-heading text-2xl font-bold mt-8 mb-4">Programme d'affiliation Amazon</h2>
               <p className="text-zinc-600 leading-relaxed">
-                PC-Archi.fr participe au Programme Partenaires d'Amazon EU. Lorsque vous cliquez sur un lien Amazon et effectuez un achat, Amazon peut collecter des données vous concernant conformément à sa propre politique de confidentialité.
+                PC-ARCHI participe au Programme Partenaires d'Amazon EU. Lorsque vous cliquez sur un lien Amazon et effectuez un achat, Amazon peut collecter des données vous concernant conformément à sa propre politique de confidentialité.
               </p>
             </section>
 
@@ -94,7 +94,7 @@ export const PolitiqueConfidentialite = () => {
                 <li>Droit d'opposition au traitement</li>
               </ul>
               <p className="text-zinc-600 leading-relaxed mt-4">
-                Pour exercer ces droits, contactez-nous à : contact@pc-archi.fr
+                Pour exercer ces droits, contactez-nous à : pcarchi.contact@gmail.com
               </p>
             </section>
 
@@ -116,7 +116,7 @@ export const PolitiqueConfidentialite = () => {
               <h2 className="font-heading text-2xl font-bold mt-8 mb-4">Contact</h2>
               <p className="text-zinc-600 leading-relaxed">
                 Pour toute question concernant cette politique de confidentialité, contactez-nous :<br />
-                Email : contact@pc-archi.fr
+                Email : pcarchi.contact@gmail.com
               </p>
             </section>
           </div>
