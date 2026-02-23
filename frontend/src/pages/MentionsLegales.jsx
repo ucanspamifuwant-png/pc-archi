@@ -9,7 +9,7 @@ export function MentionsLegales() {
       <p>
         Nom du site : PC-ARCHI
         <br />
-        Responsable de publication : PC Archi (éditeur de site)
+        Responsable de publication : PC Archi
         <br />
         Contact :{" "}
         <a href="mailto:pcarchi.contact@gmail.com">pcarchi.contact@gmail.com</a>
