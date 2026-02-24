@@ -31,20 +31,20 @@ export const products = {
       idealFor: 'Revit, ArchiCAD, Rhino, rendu 3D'
     },
     {
-      id: 'macbook-pro-m3',
-      name: 'MacBook Pro 16" M3 Max',
+      id: 'macbook-pro-m4',
+      name: 'MacBook Pro 14,2" M4 Max',
       brand: 'Apple',
-      price: 3999,
+      price: 2299,
       rating: 4.9,
       badge: 'PREMIUM',
       image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400',
-      amazonUrl: '#affiliate-macbook-m3',
+      amazonUrl: '#affiliate-macbook-m4',
       specs: {
-        cpu: 'Apple M3 Max',
-        ram: '36 Go unifiée',
-        gpu: 'GPU 30 cœurs',
-        storage: '1 To SSD',
-        screen: '16.2" Liquid Retina XDR',
+        cpu: 'Apple M4 Max',
+        ram: '24 Go unifiée',
+        gpu: 'GPU 16 cœurs',
+        storage: '512 To SSD',
+        screen: '14.2" Liquid Retina XDR',
         battery: '22h autonomie'
       },
       pros: [
