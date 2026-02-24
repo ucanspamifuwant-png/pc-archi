@@ -1214,7 +1214,7 @@ Le Mac gagne sur l'autonomie (2-3x supérieure), le silence, et l'intégration �
       },
       {
         title: "Avantages et inconvénients réels du MacBook",
-        content: `Au-delà des specs techniques, le MacBook présente des avantages et inconvénients pratiques à considérer.
+        content: `Au-delà des spécifications techniques, le MacBook présente des avantages et inconvénients pratiques à considérer.
 
 **Avantages objectifs**
 
