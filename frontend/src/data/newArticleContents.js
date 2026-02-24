@@ -1798,4 +1798,3 @@ Enfin, n'oubliez pas que ces cinq ou six années d'études sont un investissemen
 Bienvenue en architecture.`
   }
 };
-x&
