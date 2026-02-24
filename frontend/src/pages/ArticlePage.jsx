@@ -9,6 +9,7 @@ import { FAQ } from '../components/FAQ';
 import { ArticleCard } from '../components/ArticleCard';
 import { getArticleBySlug, getRelatedArticles, articles } from '../data/articles';
 import { products } from '../data/products';
+import { newArticleContents } from "../data/newArticleContents";
 
 // Article content data
 const articleContents = {
@@ -905,7 +906,7 @@ export const ArticlePage = () => {
   const { slug } = useParams();
   const article = getArticleBySlug(slug);
   const relatedArticles = article ? getRelatedArticles(article.id) : [];
-  const content = articleContents[slug];
+  const content = articleContents[slug] || newArticleContents[slug];
 
   if (!article || !content) {
     return (
