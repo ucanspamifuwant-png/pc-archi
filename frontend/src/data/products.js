@@ -9,7 +9,7 @@ export const products = {
       rating: 4.8,
       badge: 'MEILLEUR CHOIX',
       image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400',
-      amazonUrl: '#affiliate-asus-proart',
+      amazonUrl: 'https://www.amazon.fr/ASUS-ProArt-StudioBook-OLED-RTX3000/dp/B0CFK4273P?pd_rd_w=4sEf4&content-id=amzn1.sym.e1744f29-8ae7-49f6-9859-46cbe9e6a02e%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=e1744f29-8ae7-49f6-9859-46cbe9e6a02e&pf_rd_r=MQYJFX0JVNRJWP9YNF13&pd_rd_wg=N3zVP&pd_rd_r=25ee566b-f043-45ec-aff0-fcc26444c402&pd_rd_i=B0CFK4273P&linkCode=ll2&tag=pcarchi21-21&linkId=7a7ae14b84c1038a224efe1c73cefcf4&ref_=as_li_ss_tl',
       specs: {
         cpu: 'Intel Core i9-13980HX',
         ram: '32 Go DDR5',
