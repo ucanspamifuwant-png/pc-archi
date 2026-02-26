@@ -38,7 +38,7 @@ export const products = {
       rating: 4.9,
       badge: 'PREMIUM',
       image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400',
-      amazonUrl: '#affiliate-macbook-m4',
+      amazonUrl: "https://example.com"
       specs: {
         cpu: 'Apple M4 Max',
         ram: '24 Go unifiée',
@@ -67,7 +67,7 @@ export const products = {
       rating: 4.6,
       badge: 'MEILLEUR RAPPORT QUALITÉ/PRIX',
       image: 'https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400',
-      amazonUrl: '#affiliate-lenovo-p16',
+      amazonUrl: "https://example.com",
       specs: {
         cpu: 'Intel Core i7-13850HX',
         ram: '32 Go DDR5',
